@@ -1,0 +1,4782 @@
+[
+  {
+    "id": 1,
+    "name": "Whirlpool 265 L Intellifresh",
+    "category": "Refrigerators",
+    "description": "Whirlpool 265 L Intellifresh is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "225 L",
+        "250 L"
+      ],
+      "types": [
+        "French Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 55424.2,
+    "ratings": 3.9,
+    "arrival_date": "2024-06-14",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.3,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.3,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.5,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg"
+    ],
+    "tax": 12.12,
+    "shipping": 437.74
+  },
+  {
+    "id": 2,
+    "name": "Realme 8 Pro",
+    "category": "Smartphones",
+    "description": "Realme 8 Pro is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Phantom Black",
+        "Polar White"
+      ],
+      "storages": [
+        "128GB",
+        "64GB"
+      ],
+      "rams": [
+        "4GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "Wi-Fi 6",
+        "4G"
+      ]
+    },
+    "price": 23239.48,
+    "ratings": 3.0,
+    "arrival_date": "2025-03-15",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.3,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/GLADMIN/Default/2023/2/KY/RY/DC/184125020/realme-smart-phone-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxjo-ueSANA70gC-P8YCWgbPjJRpbF-E-Qw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQYadzTUGxs4dMpDiMBVM5W1a_iOOKQBYrg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s"
+    ],
+    "tax": 9.91,
+    "shipping": 101.35
+  },
+  {
+    "id": 3,
+    "name": "LG 260 L 3 Star",
+    "category": "Refrigerators",
+    "description": "LG 260 L 3 Star is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "225 L",
+        "250 L"
+      ],
+      "types": [
+        "French Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "100W",
+        "150W"
+      ]
+    },
+    "price": 93658.01,
+    "ratings": 4.8,
+    "arrival_date": "2025-03-29",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.3,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.4,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.0,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s"
+    ],
+    "tax": 14.08,
+    "shipping": 395.56
+  },
+  {
+    "id": 4,
+    "name": "Bosch 6 kg Front Load",
+    "category": "Washing Machines",
+    "description": "Bosch 6 kg Front Load is a high-quality washing machine known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "7 kg",
+        "8 kg"
+      ],
+      "types": [
+        "Top Load",
+        "Front Load"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 44876.94,
+    "ratings": 4.6,
+    "arrival_date": "2024-11-20",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.6,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://images.ctfassets.net/qozw5xyqia8b/5Wa7HF6GikSFZ2GwaSb6RO/ba1c1edc29a599305af8b377b47b9029/Ariel_Desktop_M101Article_10_Things_you_should_know_about_wama.jpg?fm=jpg&fl=progressive",
+      "https://static.toiimg.com/thumb/msid-114321591,imgsize-62632,width-400,resizemode-4/114321591.jpg"
+    ],
+    "tax": 8.56,
+    "shipping": 466.22
+  },
+  {
+    "id": 5,
+    "name": "Bajaj 16W LED Tube",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Bajaj 16W LED Tube is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "12W",
+        "18W"
+      ],
+      "voltages": [
+        "230V",
+        "110V"
+      ]
+    },
+    "price": 428.43,
+    "ratings": 3.8,
+    "arrival_date": "2024-07-12",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.9,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.2,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKtXcovjkZ-uuQaJPCQoTVnxUNqoWve_x0Q&s",
+      "https://img.freepik.com/free-vector/tube-lamp-led-strips-long-fluorescent-bulb_107791-2785.jpg?semt=ais_hybrid&w=740",
+      "https://m.media-amazon.com/images/I/61fuJjk9cvL.jpg"
+    ],
+    "tax": 4.83,
+    "shipping": 121.51
+  },
+  {
+    "id": 6,
+    "name": "Sony SRS-XB23",
+    "category": "Bluetooth Speakers",
+    "description": "Sony SRS-XB23 is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Bluetooth 4.2"
+      ],
+      "wattages": [
+        "20W",
+        "10W"
+      ]
+    },
+    "price": 2011.75,
+    "ratings": 4.2,
+    "arrival_date": "2024-08-12",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 5.0,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.6,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRPmeM1aEoDTKGOARf6s_H0ni--IiBh_NoA&s",
+      "https://www.artis.in/cdn/shop/files/1_610622ff-4af9-4de0-9451-cdd585ce0dc9.jpg?v=1715231892"
+    ],
+    "tax": 2.7,
+    "shipping": 118.19
+  },
+  {
+    "id": 7,
+    "name": "Havells Pacer 18-Litres",
+    "category": "Air Coolers",
+    "description": "Havells Pacer 18-Litres is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "18 Litres",
+        "55 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 8966.46,
+    "ratings": 3.4,
+    "arrival_date": "2024-12-06",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 4.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png",
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)"
+    ],
+    "tax": 7.79,
+    "shipping": 286.08
+  },
+  {
+    "id": 8,
+    "name": "Sony Bravia KD-43X80J",
+    "category": "Televisions",
+    "description": "Sony Bravia KD-43X80J is a high-quality television known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "sizes": [
+        "55 inch",
+        "32 inch"
+      ],
+      "types": [
+        "LED",
+        "OLED"
+      ],
+      "connectivity": [
+        "USB",
+        "HDMI"
+      ]
+    },
+    "price": 31404.53,
+    "ratings": 4.3,
+    "arrival_date": "2024-06-07",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.1,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYAiyZ9WbYXHnFYqS6IgT_OUv_hLUN7biKw&s",
+      "https://s.alicdn.com/@sc04/kf/H5ab6a0ad3665454980cbab856a0da6e66.jpg_300x300.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2021/2/OF/DS/LG/96769838/1-500x500.jpg"
+    ],
+    "tax": 16.79,
+    "shipping": 366.16
+  },
+  {
+    "id": 9,
+    "name": "JBL Flip 5",
+    "category": "Bluetooth Speakers",
+    "description": "JBL Flip 5 is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "connectivity": [
+        "Bluetooth 4.2",
+        "NFC"
+      ],
+      "wattages": [
+        "30W",
+        "10W"
+      ]
+    },
+    "price": 778.31,
+    "ratings": 3.1,
+    "arrival_date": "2024-07-18",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://www.artis.in/cdn/shop/files/1_610622ff-4af9-4de0-9451-cdd585ce0dc9.jpg?v=1715231892",
+      "https://suprememobiles.in/cdn/shop/files/TemptSINQWithMicBluetoothSpeaker-Pink.png?v=1723270623",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s"
+    ],
+    "tax": 2.55,
+    "shipping": 125.38
+  },
+  {
+    "id": 10,
+    "name": "Apple iPhone 12",
+    "category": "Smartphones",
+    "description": "Apple iPhone 12 is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Polar White",
+        "Arctic Blue"
+      ],
+      "storages": [
+        "128GB",
+        "256GB"
+      ],
+      "rams": [
+        "4GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "5G",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 24422.73,
+    "ratings": 4.9,
+    "arrival_date": "2025-01-25",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.4,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQYadzTUGxs4dMpDiMBVM5W1a_iOOKQBYrg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s",
+      "https://5.imimg.com/data5/GLADMIN/Default/2023/2/KY/RY/DC/184125020/realme-smart-phone-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxjo-ueSANA70gC-P8YCWgbPjJRpbF-E-Qw&s"
+    ],
+    "tax": 9.82,
+    "shipping": 123.7
+  },
+  {
+    "id": 11,
+    "name": "Mi 4A PRO 32",
+    "category": "Televisions",
+    "description": "Mi 4A PRO 32 is a high-quality television known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "sizes": [
+        "32 inch",
+        "55 inch"
+      ],
+      "types": [
+        "QLED",
+        "Smart TV"
+      ],
+      "connectivity": [
+        "USB",
+        "Wi-Fi"
+      ]
+    },
+    "price": 66269.19,
+    "ratings": 4.2,
+    "arrival_date": "2024-07-15",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.3,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.7,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/IW/EZ/UH/SELLER-49052323/vu-43-inches-full-hd-smart-43-pl-led-tv-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYAiyZ9WbYXHnFYqS6IgT_OUv_hLUN7biKw&s",
+      "https://5.imimg.com/data5/SB/KT/HN/SELLER-63599659/branded-smart-non-smart-led-t-v.jpg",
+      "https://s.alicdn.com/@sc04/kf/H5ab6a0ad3665454980cbab856a0da6e66.jpg_300x300.jpg"
+    ],
+    "tax": 16.79,
+    "shipping": 402.03
+  },
+  {
+    "id": 12,
+    "name": "Orient Electric Aeroquiet",
+    "category": "Ceiling Fans",
+    "description": "Orient Electric Aeroquiet is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        "1200mm",
+        "1500mm"
+      ],
+      "wattages": [
+        "70W",
+        "90W"
+      ]
+    },
+    "price": 2620.63,
+    "ratings": 3.4,
+    "arrival_date": "2025-05-07",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.4,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.0,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZIWDtTzDWKFAC_bT2eUdjn-dwLrF2tlTLA&s",
+      "https://images-cdn.ubuy.co.in/6627caf1766738172d4f0785-ceiling-fans-with-lights-72-inch-large.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkPOwwwmA5zmm_ciDSac_ssI1T5qBQlt_oQ&s"
+    ],
+    "tax": 4.18,
+    "shipping": 342.21
+  },
+  {
+    "id": 13,
+    "name": "Samsung 253 L Frost Free",
+    "category": "Refrigerators",
+    "description": "Samsung 253 L Frost Free is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "250 L",
+        "300 L"
+      ],
+      "types": [
+        "Single Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 84630.57,
+    "ratings": 4.1,
+    "arrival_date": "2025-04-13",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.3,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*"
+    ],
+    "tax": 11.26,
+    "shipping": 363.59
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy S21",
+    "category": "Smartphones",
+    "description": "Samsung Galaxy S21 is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Phantom Black",
+        "Arctic Blue"
+      ],
+      "storages": [
+        "256GB",
+        "128GB"
+      ],
+      "rams": [
+        "8GB",
+        "4GB"
+      ],
+      "connectivity": [
+        "4G",
+        "5G"
+      ]
+    },
+    "price": 19455.1,
+    "ratings": 4.4,
+    "arrival_date": "2025-03-07",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.4,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/41gc4Ie5EgL._SR290,290_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQYadzTUGxs4dMpDiMBVM5W1a_iOOKQBYrg&s",
+      "https://www.hindustantimes.com/ht-img/img/2024/11/07/550x309/1730780862086902ba1e31759444ba2c92aea91953104_1730975620781_1730975630221.jpg"
+    ],
+    "tax": 10.19,
+    "shipping": 123.07
+  },
+  {
+    "id": 15,
+    "name": "Samsung Galaxy S21",
+    "category": "Smartphones",
+    "description": "Samsung Galaxy S21 is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Polar White",
+        "Phantom Black"
+      ],
+      "storages": [
+        "128GB",
+        "64GB"
+      ],
+      "rams": [
+        "6GB",
+        "8GB"
+      ],
+      "connectivity": [
+        "4G",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 30529.19,
+    "ratings": 4.3,
+    "arrival_date": "2024-08-03",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 4.5,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.2,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/GLADMIN/Default/2023/2/KY/RY/DC/184125020/realme-smart-phone-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxjo-ueSANA70gC-P8YCWgbPjJRpbF-E-Qw&s"
+    ],
+    "tax": 9.95,
+    "shipping": 105.39
+  },
+  {
+    "id": 16,
+    "name": "Havells Pacer 18-Litres",
+    "category": "Air Coolers",
+    "description": "Havells Pacer 18-Litres is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "18 Litres",
+        "12 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 8330.37,
+    "ratings": 3.7,
+    "arrival_date": "2025-02-23",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.7,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.3,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png",
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png"
+    ],
+    "tax": 9.29,
+    "shipping": 299.39
+  },
+  {
+    "id": 17,
+    "name": "Orient Electric Aeroquiet",
+    "category": "Ceiling Fans",
+    "description": "Orient Electric Aeroquiet is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "White",
+        "Matte Grey"
+      ],
+      "sizes": [
+        "1500mm",
+        "1400mm"
+      ],
+      "wattages": [
+        "50W",
+        "90W"
+      ]
+    },
+    "price": 3213.68,
+    "ratings": 4.0,
+    "arrival_date": "2025-04-22",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.7,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.6,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkPOwwwmA5zmm_ciDSac_ssI1T5qBQlt_oQ&s"
+    ],
+    "tax": 3.28,
+    "shipping": 312.9
+  },
+  {
+    "id": 18,
+    "name": "Syska 20W LED Tube",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Syska 20W LED Tube is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "18W",
+        "9W"
+      ],
+      "voltages": [
+        "230V",
+        "110V"
+      ]
+    },
+    "price": 815.31,
+    "ratings": 4.6,
+    "arrival_date": "2024-06-21",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.0,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.5,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF1z4rE-UYQTfGP3Km6TE0TsTffbH6pSlBg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKtXcovjkZ-uuQaJPCQoTVnxUNqoWve_x0Q&s"
+    ],
+    "tax": 3.03,
+    "shipping": 108.3
+  },
+  {
+    "id": 19,
+    "name": "Orient Electric Aeroquiet",
+    "category": "Ceiling Fans",
+    "description": "Orient Electric Aeroquiet is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Black",
+        "Matte Grey"
+      ],
+      "sizes": [
+        "1200mm",
+        "1400mm"
+      ],
+      "wattages": [
+        "90W",
+        "50W"
+      ]
+    },
+    "price": 3817.78,
+    "ratings": 3.9,
+    "arrival_date": "2024-08-29",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.0,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.5,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.1,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://images-cdn.ubuy.co.in/6627caf1766738172d4f0785-ceiling-fans-with-lights-72-inch-large.jpg",
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg"
+    ],
+    "tax": 4.17,
+    "shipping": 215.91
+  },
+  {
+    "id": 20,
+    "name": "Apple iPhone 12",
+    "category": "Smartphones",
+    "description": "Apple iPhone 12 is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Midnight Gray",
+        "Arctic Blue"
+      ],
+      "storages": [
+        "64GB",
+        "128GB"
+      ],
+      "rams": [
+        "6GB",
+        "8GB"
+      ],
+      "connectivity": [
+        "4G",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 11282.22,
+    "ratings": 4.6,
+    "arrival_date": "2025-03-18",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.7,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s",
+      "https://m.media-amazon.com/images/I/41gc4Ie5EgL._SR290,290_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQYadzTUGxs4dMpDiMBVM5W1a_iOOKQBYrg&s"
+    ],
+    "tax": 9.92,
+    "shipping": 117.81
+  },
+  {
+    "id": 21,
+    "name": "Whirlpool 7 kg 5 Star",
+    "category": "Washing Machines",
+    "description": "Whirlpool 7 kg 5 Star is a high-quality washing machine known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "7 kg",
+        "6 kg"
+      ],
+      "types": [
+        "Top Load",
+        "Front Load"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 22779.4,
+    "ratings": 3.6,
+    "arrival_date": "2024-05-22",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.8,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.2,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd--gs1OlBe80O26TB59FtANHpZGwuGdnfw&s",
+      "https://images.ctfassets.net/qozw5xyqia8b/5Wa7HF6GikSFZ2GwaSb6RO/ba1c1edc29a599305af8b377b47b9029/Ariel_Desktop_M101Article_10_Things_you_should_know_about_wama.jpg?fm=jpg&fl=progressive",
+      "https://vasanthandco.in/images/productimages/a385e0f-f0untitled-1.png"
+    ],
+    "tax": 7.68,
+    "shipping": 489.84
+  },
+  {
+    "id": 22,
+    "name": "Dell Inspiron 3505",
+    "category": "Laptops",
+    "description": "Dell Inspiron 3505 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "256GB SSD",
+        "1TB SSD"
+      ],
+      "rams": [
+        "32GB",
+        "8GB"
+      ],
+      "sizes": [
+        "15.6 inch",
+        "14 inch"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 156308.87,
+    "ratings": 4.0,
+    "arrival_date": "2024-07-09",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 4.7,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.5,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvP-WbucWxDdZwlQn8hdJU1Z0rXxPN29G4zg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0m6uW1PgQ2CXLGVmk7chHb5q-hwfOxxOsw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s"
+    ],
+    "tax": 12.59,
+    "shipping": 220.47
+  },
+  {
+    "id": 23,
+    "name": "Orient Electric Air-buddy",
+    "category": "Air Coolers",
+    "description": "Orient Electric Air-buddy is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "55 Litres",
+        "12 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 11925.48,
+    "ratings": 4.0,
+    "arrival_date": "2024-09-15",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.3,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 5.0,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png"
+    ],
+    "tax": 8.06,
+    "shipping": 324.02
+  },
+  {
+    "id": 24,
+    "name": "Syska 20W LED Tube",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Syska 20W LED Tube is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "20W",
+        "9W"
+      ],
+      "voltages": [
+        "230V",
+        "110V"
+      ]
+    },
+    "price": 373.14,
+    "ratings": 3.3,
+    "arrival_date": "2024-08-06",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.6,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.3,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwKIlV7vh_ctrKDcCD7mKjFm1a4ndaQ9T0A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKtXcovjkZ-uuQaJPCQoTVnxUNqoWve_x0Q&s",
+      "https://www.shutterstock.com/image-vector/vector-set-led-lamps-png-260nw-2456057111.jpg"
+    ],
+    "tax": 3.98,
+    "shipping": 126.0
+  },
+  {
+    "id": 25,
+    "name": "Samsung Galaxy S21",
+    "category": "Smartphones",
+    "description": "Samsung Galaxy S21 is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Polar White",
+        "Phantom Black"
+      ],
+      "storages": [
+        "64GB",
+        "128GB"
+      ],
+      "rams": [
+        "6GB",
+        "4GB"
+      ],
+      "connectivity": [
+        "4G",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 33220.57,
+    "ratings": 3.3,
+    "arrival_date": "2024-07-28",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.4,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.5,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.hindustantimes.com/ht-img/img/2024/11/07/550x309/1730780862086902ba1e31759444ba2c92aea91953104_1730975620781_1730975630221.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxjo-ueSANA70gC-P8YCWgbPjJRpbF-E-Qw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQYadzTUGxs4dMpDiMBVM5W1a_iOOKQBYrg&s"
+    ],
+    "tax": 10.2,
+    "shipping": 110.8
+  },
+  {
+    "id": 26,
+    "name": "Voltas 185 Vectra",
+    "category": "Air Conditioners",
+    "description": "Voltas 185 Vectra is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "2 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1500W",
+        "1800W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 79022.14,
+    "ratings": 3.2,
+    "arrival_date": "2025-01-29",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg",
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg"
+    ],
+    "tax": 11.15,
+    "shipping": 390.48
+  },
+  {
+    "id": 27,
+    "name": "Panasonic HD LED TV 32",
+    "category": "Televisions",
+    "description": "Panasonic HD LED TV 32 is a high-quality television known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "sizes": [
+        "55 inch",
+        "32 inch"
+      ],
+      "types": [
+        "OLED",
+        "QLED"
+      ],
+      "connectivity": [
+        "Wi-Fi",
+        "USB"
+      ]
+    },
+    "price": 30545.47,
+    "ratings": 4.8,
+    "arrival_date": "2024-06-14",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.4,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://s.alicdn.com/@sc04/kf/H5ab6a0ad3665454980cbab856a0da6e66.jpg_300x300.jpg",
+      "https://5.imimg.com/data5/UJ/CP/MY-55975878/led-tv-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYAiyZ9WbYXHnFYqS6IgT_OUv_hLUN7biKw&s",
+      "https://5.imimg.com/data5/SB/KT/HN/SELLER-63599659/branded-smart-non-smart-led-t-v.jpg"
+    ],
+    "tax": 13.49,
+    "shipping": 383.75
+  },
+  {
+    "id": 28,
+    "name": "Whirlpool 265 L Intellifresh",
+    "category": "Refrigerators",
+    "description": "Whirlpool 265 L Intellifresh is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "225 L",
+        "250 L"
+      ],
+      "types": [
+        "French Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "100W",
+        "150W"
+      ]
+    },
+    "price": 36795.11,
+    "ratings": 3.5,
+    "arrival_date": "2025-04-18",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.5,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.5,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.2,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp"
+    ],
+    "tax": 11.34,
+    "shipping": 371.33
+  },
+  {
+    "id": 29,
+    "name": "Crompton Energy Saver",
+    "category": "Ceiling Fans",
+    "description": "Crompton Energy Saver is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "White",
+        "Matte Grey"
+      ],
+      "sizes": [
+        "1500mm",
+        "1200mm"
+      ],
+      "wattages": [
+        "70W",
+        "90W"
+      ]
+    },
+    "price": 2263.23,
+    "ratings": 4.2,
+    "arrival_date": "2024-08-13",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.5,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.5,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://images-cdn.ubuy.co.in/6627caf1766738172d4f0785-ceiling-fans-with-lights-72-inch-large.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkPOwwwmA5zmm_ciDSac_ssI1T5qBQlt_oQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZIWDtTzDWKFAC_bT2eUdjn-dwLrF2tlTLA&s"
+    ],
+    "tax": 4.15,
+    "shipping": 212.33
+  },
+  {
+    "id": 30,
+    "name": "Bajaj 16W LED Tube",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Bajaj 16W LED Tube is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "18W",
+        "20W"
+      ],
+      "voltages": [
+        "110V",
+        "230V"
+      ]
+    },
+    "price": 387.1,
+    "ratings": 3.7,
+    "arrival_date": "2024-08-17",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.2,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://img.freepik.com/free-vector/tube-lamp-led-strips-long-fluorescent-bulb_107791-2785.jpg?semt=ais_hybrid&w=740",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF1z4rE-UYQTfGP3Km6TE0TsTffbH6pSlBg&s"
+    ],
+    "tax": 4.38,
+    "shipping": 125.16
+  },
+  {
+    "id": 31,
+    "name": "Asus VivoBook 15",
+    "category": "Laptops",
+    "description": "Asus VivoBook 15 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "512GB SSD",
+        "1TB SSD"
+      ],
+      "rams": [
+        "32GB",
+        "16GB"
+      ],
+      "sizes": [
+        "14 inch",
+        "13.3 inch"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 211406.15,
+    "ratings": 3.5,
+    "arrival_date": "2025-03-20",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 4.2,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s"
+    ],
+    "tax": 12.29,
+    "shipping": 246.36
+  },
+  {
+    "id": 32,
+    "name": "Havells Pacer 18-Litres",
+    "category": "Air Coolers",
+    "description": "Havells Pacer 18-Litres is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "12 Litres",
+        "55 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 17433.37,
+    "ratings": 5.0,
+    "arrival_date": "2025-03-16",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.6,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.5,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png"
+    ],
+    "tax": 9.25,
+    "shipping": 339.72
+  },
+  {
+    "id": 33,
+    "name": "LG LS-Q18CNZA",
+    "category": "Air Conditioners",
+    "description": "LG LS-Q18CNZA is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "1.5 Ton"
+      ],
+      "types": [
+        "Split",
+        "Window"
+      ],
+      "wattages": [
+        "1800W",
+        "1200W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 32783.7,
+    "ratings": 3.7,
+    "arrival_date": "2024-10-29",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.2,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.3,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.3,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg",
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg"
+    ],
+    "tax": 11.51,
+    "shipping": 296.36
+  },
+  {
+    "id": 34,
+    "name": "Voltas 185 Vectra",
+    "category": "Air Conditioners",
+    "description": "Voltas 185 Vectra is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "2 Ton",
+        "1.5 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1800W",
+        "1200W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 41143.46,
+    "ratings": 4.2,
+    "arrival_date": "2024-07-03",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.3,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.1,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://i5.walmartimages.com/seo/Midea-5-000-BTU-150-Sq-ft-Mechanical-Window-Air-Conditioner-White-MAW05M1WWT-New_e69841e8-f927-4348-a7b6-a0c695a83ad4.99578b1e45f02b7408bdd2bc61d5f818.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg",
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg"
+    ],
+    "tax": 6.0,
+    "shipping": 334.67
+  },
+  {
+    "id": 35,
+    "name": "LG LS-Q18CNZA",
+    "category": "Air Conditioners",
+    "description": "LG LS-Q18CNZA is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "2 Ton",
+        "1 Ton"
+      ],
+      "types": [
+        "Split",
+        "Window"
+      ],
+      "wattages": [
+        "1800W",
+        "1200W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 49640.1,
+    "ratings": 5.0,
+    "arrival_date": "2024-08-15",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.0,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 5.0,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg",
+      "https://i5.walmartimages.com/seo/Midea-5-000-BTU-150-Sq-ft-Mechanical-Window-Air-Conditioner-White-MAW05M1WWT-New_e69841e8-f927-4348-a7b6-a0c695a83ad4.99578b1e45f02b7408bdd2bc61d5f818.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg"
+    ],
+    "tax": 10.64,
+    "shipping": 353.2
+  },
+  {
+    "id": 36,
+    "name": "Bosch 6 kg Front Load",
+    "category": "Washing Machines",
+    "description": "Bosch 6 kg Front Load is a high-quality washing machine known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "7 kg",
+        "6 kg"
+      ],
+      "types": [
+        "Front Load",
+        "Top Load"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 30330.27,
+    "ratings": 3.3,
+    "arrival_date": "2025-01-01",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.8,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.4,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd--gs1OlBe80O26TB59FtANHpZGwuGdnfw&s",
+      "https://static.toiimg.com/thumb/msid-114321591,imgsize-62632,width-400,resizemode-4/114321591.jpg"
+    ],
+    "tax": 10.91,
+    "shipping": 444.61
+  },
+  {
+    "id": 37,
+    "name": "Apple MacBook Air M1",
+    "category": "Laptops",
+    "description": "Apple MacBook Air M1 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "512GB SSD",
+        "256GB SSD"
+      ],
+      "rams": [
+        "16GB",
+        "8GB"
+      ],
+      "sizes": [
+        "15.6 inch",
+        "13.3 inch"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 295393.38,
+    "ratings": 3.8,
+    "arrival_date": "2024-09-30",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.4,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.3,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s",
+      "https://static.hub.91mobiles.com/wp-content/uploads/sites/9/2022/07/Top-laptop-brands-in-India.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0m6uW1PgQ2CXLGVmk7chHb5q-hwfOxxOsw&s"
+    ],
+    "tax": 14.31,
+    "shipping": 169.98
+  },
+  {
+    "id": 38,
+    "name": "Usha Striker",
+    "category": "Ceiling Fans",
+    "description": "Usha Striker is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Black",
+        "Brown"
+      ],
+      "sizes": [
+        "1400mm",
+        "1500mm"
+      ],
+      "wattages": [
+        "90W",
+        "50W"
+      ]
+    },
+    "price": 1292.56,
+    "ratings": 4.1,
+    "arrival_date": "2025-03-29",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.6,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg",
+      "https://jamesandco.in/wp-content/uploads/2024/09/41yY6pTdNGL._SL1443.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZIWDtTzDWKFAC_bT2eUdjn-dwLrF2tlTLA&s"
+    ],
+    "tax": 4.48,
+    "shipping": 349.93
+  },
+  {
+    "id": 39,
+    "name": "Panasonic HD LED TV 32",
+    "category": "Televisions",
+    "description": "Panasonic HD LED TV 32 is a high-quality television known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "sizes": [
+        "43 inch",
+        "32 inch"
+      ],
+      "types": [
+        "QLED",
+        "OLED"
+      ],
+      "connectivity": [
+        "USB",
+        "HDMI"
+      ]
+    },
+    "price": 35203.54,
+    "ratings": 4.5,
+    "arrival_date": "2024-11-23",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.0,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/UJ/CP/MY-55975878/led-tv-500x500.jpg",
+      "https://5.imimg.com/data5/IW/EZ/UH/SELLER-49052323/vu-43-inches-full-hd-smart-43-pl-led-tv-500x500.jpg"
+    ],
+    "tax": 17.74,
+    "shipping": 294.92
+  },
+  {
+    "id": 40,
+    "name": "JBL Flip 5",
+    "category": "Bluetooth Speakers",
+    "description": "JBL Flip 5 is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "connectivity": [
+        "Bluetooth 4.2",
+        "NFC"
+      ],
+      "wattages": [
+        "20W",
+        "30W"
+      ]
+    },
+    "price": 3686.5,
+    "ratings": 3.0,
+    "arrival_date": "2024-10-09",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.1,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://suprememobiles.in/cdn/shop/files/TemptSINQWithMicBluetoothSpeaker-Pink.png?v=1723270623",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s",
+      "https://m.media-amazon.com/images/I/71x4QMTf7EL._AC_UF1000,1000_QL80_.jpg",
+      "https://www.artis.in/cdn/shop/files/1_610622ff-4af9-4de0-9451-cdd585ce0dc9.jpg?v=1715231892"
+    ],
+    "tax": 4.23,
+    "shipping": 127.65
+  },
+  {
+    "id": 41,
+    "name": "Daikin FTKG50",
+    "category": "Air Conditioners",
+    "description": "Daikin FTKG50 is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "1.5 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1500W",
+        "1200W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 74000.74,
+    "ratings": 3.2,
+    "arrival_date": "2024-09-22",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.3,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 5.0,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.7,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg",
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg",
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg"
+    ],
+    "tax": 6.29,
+    "shipping": 525.54
+  },
+  {
+    "id": 42,
+    "name": "Dell Inspiron 3505",
+    "category": "Laptops",
+    "description": "Dell Inspiron 3505 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "512GB SSD",
+        "256GB SSD"
+      ],
+      "rams": [
+        "8GB",
+        "16GB"
+      ],
+      "sizes": [
+        "14 inch",
+        "13.3 inch"
+      ],
+      "connectivity": [
+        "Wi-Fi 6",
+        "Bluetooth 5.0"
+      ]
+    },
+    "price": 206357.71,
+    "ratings": 3.8,
+    "arrival_date": "2025-03-02",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.9,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.1,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s"
+    ],
+    "tax": 11.85,
+    "shipping": 212.16
+  },
+  {
+    "id": 43,
+    "name": "Haier 225 L Direct Cool",
+    "category": "Refrigerators",
+    "description": "Haier 225 L Direct Cool is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "225 L",
+        "300 L"
+      ],
+      "types": [
+        "Single Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 95634.69,
+    "ratings": 4.7,
+    "arrival_date": "2025-01-25",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.3,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.3,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*"
+    ],
+    "tax": 10.65,
+    "shipping": 333.61
+  },
+  {
+    "id": 44,
+    "name": "Bosch 6 kg Front Load",
+    "category": "Washing Machines",
+    "description": "Bosch 6 kg Front Load is a high-quality washing machine known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "8 kg",
+        "7 kg"
+      ],
+      "types": [
+        "Front Load",
+        "Top Load"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 31825.45,
+    "ratings": 4.8,
+    "arrival_date": "2024-10-15",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.5,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd--gs1OlBe80O26TB59FtANHpZGwuGdnfw&s",
+      "https://static.toiimg.com/thumb/msid-114321591,imgsize-62632,width-400,resizemode-4/114321591.jpg"
+    ],
+    "tax": 13.08,
+    "shipping": 337.28
+  },
+  {
+    "id": 45,
+    "name": "Apple iPhone 12",
+    "category": "Smartphones",
+    "description": "Apple iPhone 12 is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Midnight Gray",
+        "Phantom Black"
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "rams": [
+        "8GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "4G",
+        "5G"
+      ]
+    },
+    "price": 21058.02,
+    "ratings": 4.3,
+    "arrival_date": "2025-01-05",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.2,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://www.hindustantimes.com/ht-img/img/2024/11/07/550x309/1730780862086902ba1e31759444ba2c92aea91953104_1730975620781_1730975630221.jpg",
+      "https://5.imimg.com/data5/GLADMIN/Default/2023/2/KY/RY/DC/184125020/realme-smart-phone-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s"
+    ],
+    "tax": 9.95,
+    "shipping": 128.24
+  },
+  {
+    "id": 46,
+    "name": "Bajaj Platini PX97 Torque",
+    "category": "Air Coolers",
+    "description": "Bajaj Platini PX97 Torque is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "12 Litres",
+        "18 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 18796.32,
+    "ratings": 4.5,
+    "arrival_date": "2024-10-28",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.2,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.0,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.3,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png"
+    ],
+    "tax": 9.69,
+    "shipping": 529.53
+  },
+  {
+    "id": 47,
+    "name": "Whirlpool 265 L Intellifresh",
+    "category": "Refrigerators",
+    "description": "Whirlpool 265 L Intellifresh is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "300 L",
+        "250 L"
+      ],
+      "types": [
+        "Double Door",
+        "Single Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 75056.03,
+    "ratings": 4.3,
+    "arrival_date": "2025-02-15",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.5,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp",
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s"
+    ],
+    "tax": 13.7,
+    "shipping": 512.82
+  },
+  {
+    "id": 48,
+    "name": "Crompton Ozone 55-Litres",
+    "category": "Air Coolers",
+    "description": "Crompton Ozone 55-Litres is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "55 Litres",
+        "18 Litres"
+      ],
+      "types": [
+        "Desert",
+        "Tower"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 17272.55,
+    "ratings": 4.1,
+    "arrival_date": "2024-06-15",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png",
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png"
+    ],
+    "tax": 9.35,
+    "shipping": 417.36
+  },
+  {
+    "id": 49,
+    "name": "Realme 8 Pro",
+    "category": "Smartphones",
+    "description": "Realme 8 Pro is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Phantom Black",
+        "Polar White"
+      ],
+      "storages": [
+        "128GB",
+        "64GB"
+      ],
+      "rams": [
+        "8GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "4G",
+        "5G"
+      ]
+    },
+    "price": 12571.74,
+    "ratings": 3.6,
+    "arrival_date": "2024-10-31",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.2,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://www.hindustantimes.com/ht-img/img/2024/11/07/550x309/1730780862086902ba1e31759444ba2c92aea91953104_1730975620781_1730975630221.jpg",
+      "https://m.media-amazon.com/images/I/41gc4Ie5EgL._SR290,290_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s",
+      "https://5.imimg.com/data5/GLADMIN/Default/2023/2/KY/RY/DC/184125020/realme-smart-phone-500x500.jpg"
+    ],
+    "tax": 10.15,
+    "shipping": 118.99
+  },
+  {
+    "id": 50,
+    "name": "LG LS-Q18CNZA",
+    "category": "Air Conditioners",
+    "description": "LG LS-Q18CNZA is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "1.5 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1800W",
+        "1500W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 71722.94,
+    "ratings": 3.7,
+    "arrival_date": "2024-07-31",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.9,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg",
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg",
+      "https://i5.walmartimages.com/seo/Midea-5-000-BTU-150-Sq-ft-Mechanical-Window-Air-Conditioner-White-MAW05M1WWT-New_e69841e8-f927-4348-a7b6-a0c695a83ad4.99578b1e45f02b7408bdd2bc61d5f818.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg"
+    ],
+    "tax": 11.89,
+    "shipping": 511.89
+  },
+  {
+    "id": 51,
+    "name": "IFB 6 kg Top Load",
+    "category": "Washing Machines",
+    "description": "IFB 6 kg Top Load is a high-quality washing machine known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "7 kg",
+        "6 kg"
+      ],
+      "types": [
+        "Front Load",
+        "Top Load"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 23361.47,
+    "ratings": 4.1,
+    "arrival_date": "2025-02-11",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.2,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.6,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://static.toiimg.com/thumb/msid-114321591,imgsize-62632,width-400,resizemode-4/114321591.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd--gs1OlBe80O26TB59FtANHpZGwuGdnfw&s"
+    ],
+    "tax": 11.13,
+    "shipping": 388.62
+  },
+  {
+    "id": 52,
+    "name": "Sony SRS-XB23",
+    "category": "Bluetooth Speakers",
+    "description": "Sony SRS-XB23 is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Red",
+        "White"
+      ],
+      "connectivity": [
+        "Bluetooth 4.2",
+        "NFC"
+      ],
+      "wattages": [
+        "30W",
+        "20W"
+      ]
+    },
+    "price": 1456.09,
+    "ratings": 4.6,
+    "arrival_date": "2024-12-01",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.3,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRPmeM1aEoDTKGOARf6s_H0ni--IiBh_NoA&s",
+      "https://www.artis.in/cdn/shop/files/1_610622ff-4af9-4de0-9451-cdd585ce0dc9.jpg?v=1715231892"
+    ],
+    "tax": 4.34,
+    "shipping": 115.11
+  },
+  {
+    "id": 53,
+    "name": "Havells Pacer 18-Litres",
+    "category": "Air Coolers",
+    "description": "Havells Pacer 18-Litres is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "18 Litres",
+        "12 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 8064.5,
+    "ratings": 3.4,
+    "arrival_date": "2024-07-05",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.0,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png"
+    ],
+    "tax": 10.24,
+    "shipping": 506.05
+  },
+  {
+    "id": 54,
+    "name": "Havells 18W Tube Light",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Havells 18W Tube Light is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "20W",
+        "18W"
+      ],
+      "voltages": [
+        "110V",
+        "230V"
+      ]
+    },
+    "price": 601.25,
+    "ratings": 3.8,
+    "arrival_date": "2024-09-27",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.shutterstock.com/image-vector/vector-set-led-lamps-png-260nw-2456057111.jpg",
+      "https://media.istockphoto.com/id/1956711958/photo/cropped-image-of-woman-hands-changing-light-bulb-in-hanging-lamp-at-home.jpg?s=612x612&w=0&k=20&c=zHRkob5rFynbSD9KdmKedKXXW__7ls0oML7y_-t1V6g=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwKIlV7vh_ctrKDcCD7mKjFm1a4ndaQ9T0A&s",
+      "https://m.media-amazon.com/images/I/71EAXwZhQXL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "tax": 4.3,
+    "shipping": 121.61
+  },
+  {
+    "id": 55,
+    "name": "Lenovo IdeaPad S540",
+    "category": "Laptops",
+    "description": "Lenovo IdeaPad S540 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "256GB SSD",
+        "1TB SSD"
+      ],
+      "rams": [
+        "32GB",
+        "8GB"
+      ],
+      "sizes": [
+        "15.6 inch",
+        "13.3 inch"
+      ],
+      "connectivity": [
+        "Wi-Fi 6",
+        "Bluetooth 5.0"
+      ]
+    },
+    "price": 337922.42,
+    "ratings": 4.4,
+    "arrival_date": "2025-03-12",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s",
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0m6uW1PgQ2CXLGVmk7chHb5q-hwfOxxOsw&s",
+      "https://static.hub.91mobiles.com/wp-content/uploads/sites/9/2022/07/Top-laptop-brands-in-India.jpg"
+    ],
+    "tax": 13.67,
+    "shipping": 227.74
+  },
+  {
+    "id": 56,
+    "name": "Apple iPad Air",
+    "category": "Tablets",
+    "description": "Apple iPad Air is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Silver",
+        "Gold"
+      ],
+      "storages": [
+        "128GB",
+        "64GB"
+      ],
+      "rams": [
+        "4GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "Wi-Fi + LTE",
+        "Wi-Fi"
+      ]
+    },
+    "price": 33442.98,
+    "ratings": 3.6,
+    "arrival_date": "2024-05-26",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.4,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s",
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg"
+    ],
+    "tax": 9.11,
+    "shipping": 108.94
+  },
+  {
+    "id": 57,
+    "name": "Apple MacBook Air M1",
+    "category": "Laptops",
+    "description": "Apple MacBook Air M1 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "1TB SSD",
+        "512GB SSD"
+      ],
+      "rams": [
+        "16GB",
+        "8GB"
+      ],
+      "sizes": [
+        "13.3 inch",
+        "14 inch"
+      ],
+      "connectivity": [
+        "Wi-Fi 6",
+        "Bluetooth 5.0"
+      ]
+    },
+    "price": 137159.91,
+    "ratings": 3.1,
+    "arrival_date": "2025-02-21",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.4,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.8,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.3,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s"
+    ],
+    "tax": 13.76,
+    "shipping": 192.54
+  },
+  {
+    "id": 58,
+    "name": "LG LS-Q18CNZA",
+    "category": "Air Conditioners",
+    "description": "LG LS-Q18CNZA is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "2 Ton",
+        "1 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1800W",
+        "1500W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 77249.69,
+    "ratings": 4.2,
+    "arrival_date": "2025-01-28",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.3,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.0,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg",
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg",
+      "https://i5.walmartimages.com/seo/Midea-5-000-BTU-150-Sq-ft-Mechanical-Window-Air-Conditioner-White-MAW05M1WWT-New_e69841e8-f927-4348-a7b6-a0c695a83ad4.99578b1e45f02b7408bdd2bc61d5f818.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg"
+    ],
+    "tax": 12.61,
+    "shipping": 366.48
+  },
+  {
+    "id": 59,
+    "name": "Samsung 253 L Frost Free",
+    "category": "Refrigerators",
+    "description": "Samsung 253 L Frost Free is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "300 L",
+        "225 L"
+      ],
+      "types": [
+        "Single Door",
+        "French Door"
+      ],
+      "wattages": [
+        "100W",
+        "150W"
+      ]
+    },
+    "price": 63238.64,
+    "ratings": 3.0,
+    "arrival_date": "2025-02-06",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.2,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp",
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*"
+    ],
+    "tax": 10.09,
+    "shipping": 529.59
+  },
+  {
+    "id": 60,
+    "name": "Samsung Galaxy Tab S6",
+    "category": "Tablets",
+    "description": "Samsung Galaxy Tab S6 is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Blue",
+        "Space Gray"
+      ],
+      "storages": [
+        "256GB",
+        "128GB"
+      ],
+      "rams": [
+        "8GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "Wi-Fi + LTE",
+        "Wi-Fi"
+      ]
+    },
+    "price": 25454.34,
+    "ratings": 3.8,
+    "arrival_date": "2024-05-20",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.9,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.1,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/ipad-pro-m4-review-25.jpg",
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg",
+      "https://m.media-amazon.com/images/I/6186+4AOyOL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "tax": 10.02,
+    "shipping": 117.6
+  },
+  {
+    "id": 61,
+    "name": "Haier 225 L Direct Cool",
+    "category": "Refrigerators",
+    "description": "Haier 225 L Direct Cool is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "250 L",
+        "300 L"
+      ],
+      "types": [
+        "Double Door",
+        "French Door"
+      ],
+      "wattages": [
+        "100W",
+        "150W"
+      ]
+    },
+    "price": 52240.64,
+    "ratings": 4.5,
+    "arrival_date": "2024-09-01",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.5,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.9,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp"
+    ],
+    "tax": 10.39,
+    "shipping": 408.82
+  },
+  {
+    "id": 62,
+    "name": "Whirlpool 265 L Intellifresh",
+    "category": "Refrigerators",
+    "description": "Whirlpool 265 L Intellifresh is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "300 L",
+        "250 L"
+      ],
+      "types": [
+        "Single Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "100W",
+        "150W"
+      ]
+    },
+    "price": 95714.83,
+    "ratings": 3.2,
+    "arrival_date": "2025-01-01",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.1,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.6,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp",
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg"
+    ],
+    "tax": 12.09,
+    "shipping": 419.81
+  },
+  {
+    "id": 63,
+    "name": "Daikin FTKG50",
+    "category": "Air Conditioners",
+    "description": "Daikin FTKG50 is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "2 Ton",
+        "1 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1200W",
+        "1800W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 51796.14,
+    "ratings": 3.8,
+    "arrival_date": "2024-05-26",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.0,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.4,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.9,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg",
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg"
+    ],
+    "tax": 7.34,
+    "shipping": 320.65
+  },
+  {
+    "id": 64,
+    "name": "Sony SRS-XB23",
+    "category": "Bluetooth Speakers",
+    "description": "Sony SRS-XB23 is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "connectivity": [
+        "NFC",
+        "Bluetooth 4.2"
+      ],
+      "wattages": [
+        "20W",
+        "10W"
+      ]
+    },
+    "price": 1212.25,
+    "ratings": 3.8,
+    "arrival_date": "2024-07-30",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.6,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://www.artis.in/cdn/shop/files/1_610622ff-4af9-4de0-9451-cdd585ce0dc9.jpg?v=1715231892",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRPmeM1aEoDTKGOARf6s_H0ni--IiBh_NoA&s",
+      "https://m.media-amazon.com/images/I/71x4QMTf7EL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "tax": 4.26,
+    "shipping": 126.5
+  },
+  {
+    "id": 65,
+    "name": "HP Pavilion x360",
+    "category": "Laptops",
+    "description": "HP Pavilion x360 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "512GB SSD",
+        "1TB SSD"
+      ],
+      "rams": [
+        "16GB",
+        "32GB"
+      ],
+      "sizes": [
+        "13.3 inch",
+        "14 inch"
+      ],
+      "connectivity": [
+        "Wi-Fi 6",
+        "Bluetooth 5.0"
+      ]
+    },
+    "price": 286558.34,
+    "ratings": 4.5,
+    "arrival_date": "2025-03-27",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 4.8,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s"
+    ],
+    "tax": 12.4,
+    "shipping": 220.07
+  },
+  {
+    "id": 66,
+    "name": "Orient Electric Aeroquiet",
+    "category": "Ceiling Fans",
+    "description": "Orient Electric Aeroquiet is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Matte Grey",
+        "White"
+      ],
+      "sizes": [
+        "1400mm",
+        "1200mm"
+      ],
+      "wattages": [
+        "90W",
+        "50W"
+      ]
+    },
+    "price": 3412.12,
+    "ratings": 4.4,
+    "arrival_date": "2025-01-22",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.3,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.2,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.7,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg",
+      "https://jamesandco.in/wp-content/uploads/2024/09/41yY6pTdNGL._SL1443.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZIWDtTzDWKFAC_bT2eUdjn-dwLrF2tlTLA&s"
+    ],
+    "tax": 4.1,
+    "shipping": 331.58
+  },
+  {
+    "id": 67,
+    "name": "Philips 9W LED Bulb",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Philips 9W LED Bulb is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "9W",
+        "20W"
+      ],
+      "voltages": [
+        "110V",
+        "230V"
+      ]
+    },
+    "price": 651.59,
+    "ratings": 4.8,
+    "arrival_date": "2024-10-07",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.2,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.1,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.5,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/61fuJjk9cvL.jpg",
+      "https://m.media-amazon.com/images/I/71EAXwZhQXL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "tax": 4.1,
+    "shipping": 119.69
+  },
+  {
+    "id": 68,
+    "name": "Bajaj Platini PX97 Torque",
+    "category": "Air Coolers",
+    "description": "Bajaj Platini PX97 Torque is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "55 Litres",
+        "18 Litres"
+      ],
+      "types": [
+        "Desert",
+        "Tower"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 9485.04,
+    "ratings": 3.4,
+    "arrival_date": "2024-06-16",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.6,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.7,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png"
+    ],
+    "tax": 9.6,
+    "shipping": 513.28
+  },
+  {
+    "id": 69,
+    "name": "Samsung 253 L Frost Free",
+    "category": "Refrigerators",
+    "description": "Samsung 253 L Frost Free is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "250 L",
+        "225 L"
+      ],
+      "types": [
+        "Double Door",
+        "Single Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 48912.43,
+    "ratings": 3.7,
+    "arrival_date": "2024-10-27",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.4,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.3,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp"
+    ],
+    "tax": 11.78,
+    "shipping": 512.38
+  },
+  {
+    "id": 70,
+    "name": "HP Pavilion x360",
+    "category": "Laptops",
+    "description": "HP Pavilion x360 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "512GB SSD",
+        "256GB SSD"
+      ],
+      "rams": [
+        "16GB",
+        "32GB"
+      ],
+      "sizes": [
+        "13.3 inch",
+        "15.6 inch"
+      ],
+      "connectivity": [
+        "Wi-Fi 6",
+        "Bluetooth 5.0"
+      ]
+    },
+    "price": 258422.65,
+    "ratings": 3.7,
+    "arrival_date": "2025-03-22",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.5,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvP-WbucWxDdZwlQn8hdJU1Z0rXxPN29G4zg&s",
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s"
+    ],
+    "tax": 11.96,
+    "shipping": 192.75
+  },
+  {
+    "id": 71,
+    "name": "Philips 9W LED Bulb",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Philips 9W LED Bulb is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "12W",
+        "18W"
+      ],
+      "voltages": [
+        "110V",
+        "230V"
+      ]
+    },
+    "price": 633.16,
+    "ratings": 3.6,
+    "arrival_date": "2025-05-03",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.5,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKtXcovjkZ-uuQaJPCQoTVnxUNqoWve_x0Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF1z4rE-UYQTfGP3Km6TE0TsTffbH6pSlBg&s",
+      "https://media.istockphoto.com/id/1956711958/photo/cropped-image-of-woman-hands-changing-light-bulb-in-hanging-lamp-at-home.jpg?s=612x612&w=0&k=20&c=zHRkob5rFynbSD9KdmKedKXXW__7ls0oML7y_-t1V6g="
+    ],
+    "tax": 3.98,
+    "shipping": 125.69
+  },
+  {
+    "id": 72,
+    "name": "LG 260 L 3 Star",
+    "category": "Refrigerators",
+    "description": "LG 260 L 3 Star is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "300 L",
+        "225 L"
+      ],
+      "types": [
+        "Single Door",
+        "Double Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 71738.37,
+    "ratings": 3.8,
+    "arrival_date": "2025-03-25",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.9,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://www.hdbfs.com/themes/custom/hdbfs/images/blog/750x350_Top-5-Refrigerators.webp",
+      "https://hips.hearstapps.com/hmg-prod/images/best-fridges-673bac80a584c.png?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg"
+    ],
+    "tax": 11.76,
+    "shipping": 472.08
+  },
+  {
+    "id": 73,
+    "name": "Dell Inspiron 3505",
+    "category": "Laptops",
+    "description": "Dell Inspiron 3505 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "256GB SSD",
+        "1TB SSD"
+      ],
+      "rams": [
+        "32GB",
+        "8GB"
+      ],
+      "sizes": [
+        "13.3 inch",
+        "14 inch"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 179787.62,
+    "ratings": 3.4,
+    "arrival_date": "2024-09-09",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.9,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://static.hub.91mobiles.com/wp-content/uploads/sites/9/2022/07/Top-laptop-brands-in-India.jpg",
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9zTsUw9GLhneuaoFGKsx3WAzZc9qE1SK_w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0psGP-1j3GzrysV17HRI0cWfiX6b4L_5Q&s"
+    ],
+    "tax": 14.53,
+    "shipping": 183.4
+  },
+  {
+    "id": 74,
+    "name": "JBL Flip 5",
+    "category": "Bluetooth Speakers",
+    "description": "JBL Flip 5 is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Bluetooth 4.2"
+      ],
+      "wattages": [
+        "20W",
+        "10W"
+      ]
+    },
+    "price": 2115.16,
+    "ratings": 4.2,
+    "arrival_date": "2024-09-27",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.8,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRPmeM1aEoDTKGOARf6s_H0ni--IiBh_NoA&s"
+    ],
+    "tax": 4.38,
+    "shipping": 120.06
+  },
+  {
+    "id": 75,
+    "name": "Wipro 12W LED Bulb",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Wipro 12W LED Bulb is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "12W",
+        "9W"
+      ],
+      "voltages": [
+        "110V",
+        "230V"
+      ]
+    },
+    "price": 719.06,
+    "ratings": 4.7,
+    "arrival_date": "2024-09-02",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.5,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.1,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.9,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKtXcovjkZ-uuQaJPCQoTVnxUNqoWve_x0Q&s",
+      "https://img.freepik.com/free-vector/tube-lamp-led-strips-long-fluorescent-bulb_107791-2785.jpg?semt=ais_hybrid&w=740",
+      "https://www.shutterstock.com/image-vector/vector-set-led-lamps-png-260nw-2456057111.jpg"
+    ],
+    "tax": 4.31,
+    "shipping": 107.02
+  },
+  {
+    "id": 76,
+    "name": "Apple iPad Air",
+    "category": "Tablets",
+    "description": "Apple iPad Air is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Space Gray",
+        "Gold"
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "rams": [
+        "4GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "Wi-Fi",
+        "Wi-Fi + LTE"
+      ]
+    },
+    "price": 37517.19,
+    "ratings": 3.9,
+    "arrival_date": "2024-12-01",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 4.1,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.3,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.2,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s",
+      "https://m.media-amazon.com/images/I/6186+4AOyOL._AC_UF1000,1000_QL80_.jpg",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/ipad-pro-m4-review-25.jpg"
+    ],
+    "tax": 9.84,
+    "shipping": 128.21
+  },
+  {
+    "id": 77,
+    "name": "Mi 4A PRO 32",
+    "category": "Televisions",
+    "description": "Mi 4A PRO 32 is a high-quality television known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "sizes": [
+        "65 inch",
+        "43 inch"
+      ],
+      "types": [
+        "Smart TV",
+        "LED"
+      ],
+      "connectivity": [
+        "Bluetooth",
+        "USB"
+      ]
+    },
+    "price": 54931.49,
+    "ratings": 4.4,
+    "arrival_date": "2024-11-22",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.0,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/IW/EZ/UH/SELLER-49052323/vu-43-inches-full-hd-smart-43-pl-led-tv-500x500.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYAiyZ9WbYXHnFYqS6IgT_OUv_hLUN7biKw&s"
+    ],
+    "tax": 12.82,
+    "shipping": 345.68
+  },
+  {
+    "id": 78,
+    "name": "Syska 20W LED Tube",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Syska 20W LED Tube is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "18W",
+        "9W"
+      ],
+      "voltages": [
+        "110V",
+        "230V"
+      ]
+    },
+    "price": 819.83,
+    "ratings": 3.6,
+    "arrival_date": "2025-04-06",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.7,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.0,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.3,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwKIlV7vh_ctrKDcCD7mKjFm1a4ndaQ9T0A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF1z4rE-UYQTfGP3Km6TE0TsTffbH6pSlBg&s",
+      "https://img.freepik.com/free-vector/tube-lamp-led-strips-long-fluorescent-bulb_107791-2785.jpg?semt=ais_hybrid&w=740"
+    ],
+    "tax": 3.07,
+    "shipping": 118.04
+  },
+  {
+    "id": 79,
+    "name": "Usha Striker",
+    "category": "Ceiling Fans",
+    "description": "Usha Striker is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        "1500mm",
+        "1400mm"
+      ],
+      "wattages": [
+        "70W",
+        "90W"
+      ]
+    },
+    "price": 4411.25,
+    "ratings": 4.7,
+    "arrival_date": "2024-12-18",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 3.4,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.3,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkPOwwwmA5zmm_ciDSac_ssI1T5qBQlt_oQ&s"
+    ],
+    "tax": 4.42,
+    "shipping": 331.99
+  },
+  {
+    "id": 80,
+    "name": "Sony Bravia KD-43X80J",
+    "category": "Televisions",
+    "description": "Sony Bravia KD-43X80J is a high-quality television known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "sizes": [
+        "32 inch",
+        "43 inch"
+      ],
+      "types": [
+        "QLED",
+        "Smart TV"
+      ],
+      "connectivity": [
+        "HDMI",
+        "Bluetooth"
+      ]
+    },
+    "price": 25209.56,
+    "ratings": 3.9,
+    "arrival_date": "2025-01-15",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.8,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/SB/KT/HN/SELLER-63599659/branded-smart-non-smart-led-t-v.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYAiyZ9WbYXHnFYqS6IgT_OUv_hLUN7biKw&s",
+      "https://5.imimg.com/data5/UJ/CP/MY-55975878/led-tv-500x500.jpg"
+    ],
+    "tax": 14.07,
+    "shipping": 449.68
+  },
+  {
+    "id": 81,
+    "name": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "description": "Amazon Fire HD 10 is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Blue",
+        "Silver"
+      ],
+      "storages": [
+        "256GB",
+        "64GB"
+      ],
+      "rams": [
+        "8GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "Wi-Fi",
+        "Wi-Fi + LTE"
+      ]
+    },
+    "price": 40988.9,
+    "ratings": 4.9,
+    "arrival_date": "2024-08-27",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg",
+      "https://m.media-amazon.com/images/I/6186+4AOyOL._AC_UF1000,1000_QL80_.jpg",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/ipad-pro-m4-review-25.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s"
+    ],
+    "tax": 9.38,
+    "shipping": 106.54
+  },
+  {
+    "id": 82,
+    "name": "Haier 225 L Direct Cool",
+    "category": "Refrigerators",
+    "description": "Haier 225 L Direct Cool is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "300 L",
+        "225 L"
+      ],
+      "types": [
+        "French Door",
+        "Single Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 36324.67,
+    "ratings": 4.3,
+    "arrival_date": "2024-06-25",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 5.0,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.8,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s"
+    ],
+    "tax": 13.28,
+    "shipping": 394.02
+  },
+  {
+    "id": 83,
+    "name": "Philips 9W LED Bulb",
+    "category": "Tube Lights & LED Bulbs",
+    "description": "Philips 9W LED Bulb is a high-quality tube lights & led bulb known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "wattages": [
+        "12W",
+        "18W"
+      ],
+      "voltages": [
+        "230V",
+        "110V"
+      ]
+    },
+    "price": 413.75,
+    "ratings": 4.2,
+    "arrival_date": "2025-05-02",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.4,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.7,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://img.freepik.com/free-vector/tube-lamp-led-strips-long-fluorescent-bulb_107791-2785.jpg?semt=ais_hybrid&w=740",
+      "https://media.istockphoto.com/id/1956711958/photo/cropped-image-of-woman-hands-changing-light-bulb-in-hanging-lamp-at-home.jpg?s=612x612&w=0&k=20&c=zHRkob5rFynbSD9KdmKedKXXW__7ls0oML7y_-t1V6g="
+    ],
+    "tax": 4.49,
+    "shipping": 120.29
+  },
+  {
+    "id": 84,
+    "name": "Apple MacBook Air M1",
+    "category": "Laptops",
+    "description": "Apple MacBook Air M1 is a high-quality laptop known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "storages": [
+        "1TB SSD",
+        "512GB SSD"
+      ],
+      "rams": [
+        "8GB",
+        "32GB"
+      ],
+      "sizes": [
+        "15.6 inch",
+        "14 inch"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Wi-Fi 6"
+      ]
+    },
+    "price": 236633.21,
+    "ratings": 3.1,
+    "arrival_date": "2024-06-05",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 4.3,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0m6uW1PgQ2CXLGVmk7chHb5q-hwfOxxOsw&s",
+      "https://saudewala.in/cdn/shop/collections/Laptop.jpg?v=1732216115&width=1296",
+      "https://static.hub.91mobiles.com/wp-content/uploads/sites/9/2022/07/Top-laptop-brands-in-India.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvP-WbucWxDdZwlQn8hdJU1Z0rXxPN29G4zg&s"
+    ],
+    "tax": 15.55,
+    "shipping": 211.39
+  },
+  {
+    "id": 85,
+    "name": "Lenovo Tab M10",
+    "category": "Tablets",
+    "description": "Lenovo Tab M10 is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Blue",
+        "Space Gray"
+      ],
+      "storages": [
+        "256GB",
+        "64GB"
+      ],
+      "rams": [
+        "8GB",
+        "4GB"
+      ],
+      "connectivity": [
+        "Wi-Fi",
+        "Wi-Fi + LTE"
+      ]
+    },
+    "price": 30714.76,
+    "ratings": 4.7,
+    "arrival_date": "2024-06-06",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 3.4,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.0,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/ipad-pro-m4-review-25.jpg",
+      "https://m.media-amazon.com/images/I/6186+4AOyOL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "tax": 10.66,
+    "shipping": 125.61
+  },
+  {
+    "id": 86,
+    "name": "OnePlus 9 Pro",
+    "category": "Smartphones",
+    "description": "OnePlus 9 Pro is a high-quality smartphone known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Phantom Black",
+        "Polar White"
+      ],
+      "storages": [
+        "256GB",
+        "128GB"
+      ],
+      "rams": [
+        "6GB",
+        "8GB"
+      ],
+      "connectivity": [
+        "5G",
+        "4G"
+      ]
+    },
+    "price": 27193.74,
+    "ratings": 4.3,
+    "arrival_date": "2025-04-22",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/41gc4Ie5EgL._SR290,290_.jpg",
+      "https://www.hindustantimes.com/ht-img/img/2024/11/07/550x309/1730780862086902ba1e31759444ba2c92aea91953104_1730975620781_1730975630221.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxjo-ueSANA70gC-P8YCWgbPjJRpbF-E-Qw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s"
+    ],
+    "tax": 10.11,
+    "shipping": 104.37
+  },
+  {
+    "id": 87,
+    "name": "Marshall Emberton",
+    "category": "Bluetooth Speakers",
+    "description": "Marshall Emberton is a high-quality bluetooth speaker known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "connectivity": [
+        "Bluetooth 5.0",
+        "Bluetooth 4.2"
+      ],
+      "wattages": [
+        "30W",
+        "20W"
+      ]
+    },
+    "price": 2121.27,
+    "ratings": 3.0,
+    "arrival_date": "2025-03-27",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.3,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRPmeM1aEoDTKGOARf6s_H0ni--IiBh_NoA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s",
+      "https://m.media-amazon.com/images/I/71x4QMTf7EL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "tax": 4.76,
+    "shipping": 119.41
+  },
+  {
+    "id": 88,
+    "name": "Crompton Energy Saver",
+    "category": "Ceiling Fans",
+    "description": "Crompton Energy Saver is a high-quality ceiling fan known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Matte Grey",
+        "Brown"
+      ],
+      "sizes": [
+        "1400mm",
+        "1500mm"
+      ],
+      "wattages": [
+        "70W",
+        "90W"
+      ]
+    },
+    "price": 5600.33,
+    "ratings": 3.7,
+    "arrival_date": "2024-11-08",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.5,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.3,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.7,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkPOwwwmA5zmm_ciDSac_ssI1T5qBQlt_oQ&s",
+      "https://www.bhg.com/thmb/y3Zxl0ZTJyeB4OJGvBYCU0REkkY=/3668x0/filters:no_upscale():strip_icc()/bhg-ceiling-fans-test-honeywell-50197-carmel-48in-contemporary-integrated-kight-kit-michael-navarro-02-2-a5a5d7b915fd449399e98e1b3135362e.jpeg",
+      "https://jamesandco.in/wp-content/uploads/2024/09/41yY6pTdNGL._SL1443.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZIWDtTzDWKFAC_bT2eUdjn-dwLrF2tlTLA&s"
+    ],
+    "tax": 3.52,
+    "shipping": 319.45
+  },
+  {
+    "id": 89,
+    "name": "Huawei MatePad T10s",
+    "category": "Tablets",
+    "description": "Huawei MatePad T10s is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Gold",
+        "Space Gray"
+      ],
+      "storages": [
+        "64GB",
+        "128GB"
+      ],
+      "rams": [
+        "8GB",
+        "6GB"
+      ],
+      "connectivity": [
+        "Wi-Fi + LTE",
+        "Wi-Fi"
+      ]
+    },
+    "price": 32978.99,
+    "ratings": 3.2,
+    "arrival_date": "2025-01-19",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 3.8,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.5,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/ipad-pro-m4-review-25.jpg"
+    ],
+    "tax": 10.32,
+    "shipping": 102.56
+  },
+  {
+    "id": 90,
+    "name": "Whirlpool 7 kg 5 Star",
+    "category": "Washing Machines",
+    "description": "Whirlpool 7 kg 5 Star is a high-quality washing machine known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "8 kg",
+        "6 kg"
+      ],
+      "types": [
+        "Top Load",
+        "Front Load"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 21996.35,
+    "ratings": 3.6,
+    "arrival_date": "2024-10-03",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.5,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.5,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://images.ctfassets.net/qozw5xyqia8b/5Wa7HF6GikSFZ2GwaSb6RO/ba1c1edc29a599305af8b377b47b9029/Ariel_Desktop_M101Article_10_Things_you_should_know_about_wama.jpg?fm=jpg&fl=progressive",
+      "https://vasanthandco.in/images/productimages/a385e0f-f0untitled-1.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd--gs1OlBe80O26TB59FtANHpZGwuGdnfw&s"
+    ],
+    "tax": 13.1,
+    "shipping": 518.76
+  },
+  {
+    "id": 91,
+    "name": "Crompton Ozone 55-Litres",
+    "category": "Air Coolers",
+    "description": "Crompton Ozone 55-Litres is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "12 Litres",
+        "18 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 15298.86,
+    "ratings": 4.7,
+    "arrival_date": "2024-11-11",
+    "reviews": [
+      {
+        "user": "Sneha Patel",
+        "rating": 4.1,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.6,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 4.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)",
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png"
+    ],
+    "tax": 9.47,
+    "shipping": 428.29
+  },
+  {
+    "id": 92,
+    "name": "LG 260 L 3 Star",
+    "category": "Refrigerators",
+    "description": "LG 260 L 3 Star is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "225 L",
+        "250 L"
+      ],
+      "types": [
+        "Double Door",
+        "French Door"
+      ],
+      "wattages": [
+        "100W",
+        "150W"
+      ]
+    },
+    "price": 76257.46,
+    "ratings": 4.1,
+    "arrival_date": "2025-01-26",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 4.6,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.6,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.0,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg"
+    ],
+    "tax": 12.92,
+    "shipping": 541.45
+  },
+  {
+    "id": 93,
+    "name": "Symphony Diet 12T",
+    "category": "Air Coolers",
+    "description": "Symphony Diet 12T is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "12 Litres",
+        "18 Litres"
+      ],
+      "types": [
+        "Desert",
+        "Tower"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 13009.29,
+    "ratings": 4.2,
+    "arrival_date": "2024-06-25",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png",
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png"
+    ],
+    "tax": 7.84,
+    "shipping": 327.95
+  },
+  {
+    "id": 94,
+    "name": "Haier 225 L Direct Cool",
+    "category": "Refrigerators",
+    "description": "Haier 225 L Direct Cool is a high-quality refrigerator known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "225 L",
+        "250 L"
+      ],
+      "types": [
+        "Single Door",
+        "French Door"
+      ],
+      "wattages": [
+        "150W",
+        "100W"
+      ]
+    },
+    "price": 44574.5,
+    "ratings": 3.9,
+    "arrival_date": "2024-09-18",
+    "reviews": [
+      {
+        "user": "Rahul Verma",
+        "rating": 3.9,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.1,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      }
+    ],
+    "images": [
+      "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s"
+    ],
+    "tax": 10.71,
+    "shipping": 351.5
+  },
+  {
+    "id": 95,
+    "name": "Hitachi RSY518HAT",
+    "category": "Air Conditioners",
+    "description": "Hitachi RSY518HAT is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "2 Ton"
+      ],
+      "types": [
+        "Split",
+        "Window"
+      ],
+      "wattages": [
+        "1200W",
+        "1800W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 49614.45,
+    "ratings": 3.2,
+    "arrival_date": "2024-07-07",
+    "reviews": [
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.0,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.7,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Anjali Rao",
+        "rating": 4.2,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg",
+      "https://i5.walmartimages.com/seo/Midea-5-000-BTU-150-Sq-ft-Mechanical-Window-Air-Conditioner-White-MAW05M1WWT-New_e69841e8-f927-4348-a7b6-a0c695a83ad4.99578b1e45f02b7408bdd2bc61d5f818.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg"
+    ],
+    "tax": 9.67,
+    "shipping": 529.18
+  },
+  {
+    "id": 96,
+    "name": "Lenovo Tab M10",
+    "category": "Tablets",
+    "description": "Lenovo Tab M10 is a high-quality tablet known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "colors": [
+        "Silver",
+        "Space Gray"
+      ],
+      "storages": [
+        "64GB",
+        "256GB"
+      ],
+      "rams": [
+        "4GB",
+        "8GB"
+      ],
+      "connectivity": [
+        "Wi-Fi",
+        "Wi-Fi + LTE"
+      ]
+    },
+    "price": 14130.28,
+    "ratings": 3.8,
+    "arrival_date": "2025-03-19",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.2,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.3,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      }
+    ],
+    "images": [
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/ipad-pro-m4-review-25.jpg",
+      "https://m.media-amazon.com/images/I/6186+4AOyOL._AC_UF1000,1000_QL80_.jpg",
+      "https://s.alicdn.com/@sc04/kf/HTB1efY2PkvoK1RjSZFNq6AxMVXaR.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLv4Ux8hxmCPVNSxatQfCoWUjN0GjBwJ9qA&s"
+    ],
+    "tax": 9.69,
+    "shipping": 122.65
+  },
+  {
+    "id": 97,
+    "name": "Samsung AR18TV3HLTR",
+    "category": "Air Conditioners",
+    "description": "Samsung AR18TV3HLTR is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "2 Ton"
+      ],
+      "types": [
+        "Split",
+        "Window"
+      ],
+      "wattages": [
+        "1500W",
+        "1800W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 52671.32,
+    "ratings": 5.0,
+    "arrival_date": "2024-12-17",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 3.9,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      },
+      {
+        "user": "Rahul Verma",
+        "rating": 3.8,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 3.5,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      }
+    ],
+    "images": [
+      "https://www.128plumbing.com/wp-content/uploads/2023/10/ductless-head-scaled.jpg",
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg"
+    ],
+    "tax": 12.03,
+    "shipping": 300.2
+  },
+  {
+    "id": 98,
+    "name": "Bajaj Platini PX97 Torque",
+    "category": "Air Coolers",
+    "description": "Bajaj Platini PX97 Torque is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "12 Litres",
+        "55 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 8729.72,
+    "ratings": 4.0,
+    "arrival_date": "2025-02-09",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 3.0,
+        "comment": "I am quite satisfied with the quality and performance. A great purchase overall."
+      },
+      {
+        "user": "Sneha Patel",
+        "rating": 4.4,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.7,
+        "comment": "Good product, but the manual could be clearer. Otherwise, it operates smoothly."
+      }
+    ],
+    "images": [
+      "https://vasanthandco.in/UploadedFiles/productimages/20240514035918-Untitled-1.png",
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png",
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)"
+    ],
+    "tax": 8.74,
+    "shipping": 378.77
+  },
+  {
+    "id": 99,
+    "name": "Samsung AR18TV3HLTR",
+    "category": "Air Conditioners",
+    "description": "Samsung AR18TV3HLTR is a high-quality air conditioner known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "tonnages": [
+        "1 Ton",
+        "2 Ton"
+      ],
+      "types": [
+        "Window",
+        "Split"
+      ],
+      "wattages": [
+        "1800W",
+        "1200W"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 53443.57,
+    "ratings": 3.1,
+    "arrival_date": "2024-10-30",
+    "reviews": [
+      {
+        "user": "Anjali Rao",
+        "rating": 4.6,
+        "comment": "Impressed by the durability and efficiency. Will consider buying from this brand again."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 4.8,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.1,
+        "comment": "Decent build and reliable performance, though the setup could be more user-friendly."
+      }
+    ],
+    "images": [
+      "https://5.imimg.com/data5/ANDROID/Default/2023/11/363498096/LG/AB/VO/100174096/product-jpeg-500x500.jpeg",
+      "https://cdn11.bigcommerce.com/s-bi8c0htqsn/images/stencil/640w/products/2245/6988/seer2_21__57835.1743696839.jpg"
+    ],
+    "tax": 6.69,
+    "shipping": 548.57
+  },
+  {
+    "id": 100,
+    "name": "Symphony Diet 12T",
+    "category": "Air Coolers",
+    "description": "Symphony Diet 12T is a high-quality air cooler known for its reliability and performance. It features the latest technology to ensure optimal user experience. Its durable build makes it a long-lasting choice for everyday use. The product comes with a comprehensive warranty and excellent after-sales support.",
+    "variants": {
+      "capacities": [
+        "55 Litres",
+        "18 Litres"
+      ],
+      "types": [
+        "Tower",
+        "Desert"
+      ],
+      "voltages": [
+        "230V"
+      ]
+    },
+    "price": 11890.74,
+    "ratings": 3.7,
+    "arrival_date": "2024-08-21",
+    "reviews": [
+      {
+        "user": "Amit Kapoor",
+        "rating": 4.8,
+        "comment": "Excellent features and value for money. Customer support was helpful when I needed assistance."
+      },
+      {
+        "user": "Priya Singh",
+        "rating": 3.2,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      },
+      {
+        "user": "Rohan Sharma",
+        "rating": 3.3,
+        "comment": "The product works very well, exceeding my expectations in every way. Highly recommended!"
+      }
+    ],
+    "images": [
+      "https://esquareplaza.com/wp-content/uploads/2020/05/cover-300x285.png",
+      "https://assets.nikshanonline.com/wp-content/uploads/2025/04/BAJAJ-30-L-Room-Personal-Air-Cooler-White-Shield-Series-Glanza-30L-Personal-Air-Cooler.png",
+      "https://www.jiomart.com/images/product/original/rvqk1u4np9/ekvira-white-air-cooler-without-water-with-3-speeds-for-home-high-speed-120-degree-wide-oscillation-1-2-ft-height-product-images-orvqk1u4np9-p601072065-0-202304292026.jpg?im=Resize=(1000,1000)"
+    ],
+    "tax": 9.15,
+    "shipping": 316.65
+  }
+]
