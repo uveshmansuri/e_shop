@@ -1,12 +1,14 @@
+import 'package:e_shop/Controller/cart_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'Conectivity_Check_Controller.dart';
-import 'Products/product_controller.dart';
+import 'Controller/Conectivity_Check_Controller.dart';
+import 'Controller/product_controller.dart';
 import 'Splash.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   Get.put(ProductsController());
+  Get.put(CartController());
   Get.put(InternetController(),permanent: true);
   runApp(const MyApp());
 }

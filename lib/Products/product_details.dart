@@ -1,7 +1,12 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:e_shop/Products/products_model.dart';
+import 'package:e_shop/Controller/cart_controller.dart';
+import 'package:e_shop/Controller/product_controller.dart';
+import 'package:e_shop/DBHelper.dart';
+import 'package:e_shop/Model%20Classes/cart_model.dart';
+import 'package:e_shop/Model%20Classes/products_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_rating/flutter_rating.dart';
+import 'package:get/get.dart';
 
 class Product_Details extends StatefulWidget {
   final Product product;
@@ -151,7 +156,6 @@ class _Product_DetailsState extends State<Product_Details> {
     );
   }
 
-
   //Design of Product Name ratting price and tax related details
   Widget _buildTitleSection() {
     return Column(
@@ -271,7 +275,6 @@ class _Product_DetailsState extends State<Product_Details> {
     );
   }
 
-
   //Customer Review of particular Product
   Widget _buildReviewsSection() {
     return Column(
@@ -303,7 +306,6 @@ class _Product_DetailsState extends State<Product_Details> {
       ),
     );
   }
-
 
   //Products variates selection section for all avillable variants
   Widget _buildVariantsSection() {
@@ -404,7 +406,7 @@ class _Product_DetailsState extends State<Product_Details> {
             Expanded(
               child: OutlinedButton.icon(
                 onPressed: () {
-                  // Add to cart logic
+                  add_to_cart();
                 },
                 icon: Icon(Icons.add_shopping_cart),
                 label: Text("Add to Cart"),
@@ -432,5 +434,45 @@ class _Product_DetailsState extends State<Product_Details> {
         ),
       ),
     );
+  }
+
+  void add_to_cart() async{
+    Map<String,String> variant=get_variants();
+    var price=widget.product.price;
+    var tax=widget.product.tax;
+
+    double total_price=double.parse((price +((price*tax)/100)).toStringAsFixed(2));
+
+    final cart_itm=CartModel(
+      product_id: widget.product.id, name: widget.product.name,
+      variants: variant, price: price, tax: tax, category: widget.product.category!,
+      image: widget.product.images[0], quantity: 1, total_amount: total_price,
+    );
+
+    var db=DBHelper.instance;
+    try{
+      await db.add_to_cart(cart_itm);
+      CartController cartController=Get.find();
+      await cartController.addItem();
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Product Added in Cart")));
+    }catch(e){
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Product is Already in Cart")));
+      print(e.toString());
+    }
+  }
+
+  Map<String,String> get_variants(){
+    Map<String,String> selectedVariant={};
+    selectedColor != null ?selectedVariant["Color"]= selectedColor!:null;
+    selectedStorage != null ?selectedVariant["Storage"]= selectedStorage!:null;
+    selectedRam != null ?selectedVariant["Ram"]= selectedRam!:null;
+    selectedSize != null ?selectedVariant["Size"]= selectedSize!:null;
+    selectedCapacitie != null ?selectedVariant["Capacitie"]= selectedCapacitie!:null;
+    selectedVoltage != null ?selectedVariant["Voltage"]= selectedVoltage!:null;
+    selectedWattage != null ?selectedVariant["Wattage"]= selectedWattage!:null;
+    selectedType != null ?selectedVariant["Type"]= selectedType!:null;
+    selectedTonnage != null ?selectedVariant["Tonnage"]= selectedTonnage!:null;
+    selectedConnectivity != null ?selectedVariant["Connectivity"]= selectedConnectivity!:null;
+    return selectedVariant;
   }
 }

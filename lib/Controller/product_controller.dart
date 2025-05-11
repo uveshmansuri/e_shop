@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:e_shop/Products/products_model.dart';
+import 'package:e_shop/Model%20Classes/products_model.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 

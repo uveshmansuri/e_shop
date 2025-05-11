@@ -1,4 +1,5 @@
-import 'package:e_shop/Products/product_controller.dart';
+import 'package:e_shop/Cart/cart_screen.dart';
+import 'package:e_shop/Controller/product_controller.dart';
 import 'package:e_shop/Products/product_details.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -16,7 +17,9 @@ class Product_Catalog extends StatelessWidget {
         backgroundColor: Colors.white,
         actions: [
           IconButton(
-            onPressed: (){},
+            onPressed: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context)=>CartScreen()));
+            },
             icon: Icon(
               Icons.shopping_cart_outlined,
               color: Colors.cyanAccent.shade700,
