@@ -18,7 +18,7 @@
         "100W"
       ]
     },
-    "price": 55424.2,
+    "price": 50000.00,
     "ratings": 3.9,
     "arrival_date": "2024-06-14",
     "reviews": [
@@ -43,7 +43,7 @@
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-tyylwl_1Jdhfr33fwg9Iwlj7SubwEaYbQ&s",
       "https://media3.bosch-home.com/Images/1200x/19739336_Bosch_Cooling_Meta-Image_1200x630.jpg"
     ],
-    "tax": 12.12,
+    "tax": 10.00,
     "shipping": 437.74
   },
   {
@@ -69,7 +69,7 @@
         "4G"
       ]
     },
-    "price": 23239.48,
+    "price": 20000.00,
     "ratings": 3.0,
     "arrival_date": "2025-03-15",
     "reviews": [
@@ -95,7 +95,7 @@
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQYadzTUGxs4dMpDiMBVM5W1a_iOOKQBYrg&s",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xiZj68ec0pLiZpr882dKS-cY6ST3GOZ3w&s"
     ],
-    "tax": 9.91,
+    "tax": 5.00,
     "shipping": 101.35
   },
   {

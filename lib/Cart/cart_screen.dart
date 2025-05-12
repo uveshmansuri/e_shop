@@ -1,4 +1,5 @@
 import 'package:e_shop/Cart/edit_cart_item.dart';
+import 'package:e_shop/Check%20Out/CheckOutService.dart';
 import 'package:e_shop/Controller/cart_controller.dart';
 import 'package:e_shop/Controller/product_controller.dart';
 import 'package:e_shop/DBHelper.dart';
@@ -33,19 +34,45 @@ class CartScreen extends StatelessWidget {
             icon: Icon(Icons.remove_shopping_cart),
             tooltip: "Clear the cart",
             onPressed: () async{
-              int res=await db.emptyCart();
-              await cartController.onClear();
-              if(res==0){
-                ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Cart is already Empty")));
+              if(cartController.cartItems.isEmpty){
+                ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Your cart is empty")));
                 return;
               }
-              ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Total $res items removed from cart")));
+              showDialog(
+                context: context,
+                builder: (_)=>AlertDialog(
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  title: const Text(
+                    'E-Shop',
+                    style: TextStyle(fontWeight: FontWeight.bold),
+                  ),
+                  content: Text("Are you sure to clear cart?"),
+                  actions: [
+                    TextButton(
+                      onPressed: (){
+                        Navigator.pop(context);
+                      },
+                      child: Text("No",style: TextStyle(color: Colors.blue),),
+                    ),
+                    TextButton(onPressed: () async {
+                      Navigator.pop(context);
+                      int res=await db.emptyCart();
+                      await cartController.onClear();
+                      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Total $res items removed from cart")));
+                    }, child: Text("Clear",style: TextStyle(color: Colors.red),)),
+                  ],
+                ),
+              );
             },
           ),
         ],
       ),
+
       body: Container(
         width: double.infinity,
+        height: double.infinity,
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
@@ -155,9 +182,15 @@ class CartScreen extends StatelessWidget {
           );
         }),
       ),
-      floatingActionButton: FloatingActionButton.extended(
+
+      floatingActionButton:
+      FloatingActionButton.extended(
         onPressed: () {
-          // TODO: handle checkout tap
+          cartController.cartItems.isEmpty
+              ?
+          ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Your cart is empty")))
+              :
+          CheckOutService.showConfirmAndEditDetailsDialog(context: context);
         },
         icon: Icon(Icons.shopping_cart_checkout_rounded,color:Colors.white,),
         label: Text("CheckOut",style: TextStyle(color: Colors.white),),
@@ -233,7 +266,6 @@ class CartScreen extends StatelessWidget {
 
           SizedBox(height: 8),
 
-          // Variants (key/value rich text with distinct styles)
           Text.rich(
             TextSpan(
               children: cartItem.variants.entries.map((e) {

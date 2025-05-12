@@ -1,12 +1,14 @@
 import 'package:carousel_slider/carousel_slider.dart';
+import 'package:e_shop/Check%20Out/CheckOut.dart';
+import 'package:e_shop/Check%20Out/User_Details_Form.dart';
 import 'package:e_shop/Controller/cart_controller.dart';
-import 'package:e_shop/Controller/product_controller.dart';
 import 'package:e_shop/DBHelper.dart';
 import 'package:e_shop/Model%20Classes/cart_model.dart';
 import 'package:e_shop/Model%20Classes/products_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_rating/flutter_rating.dart';
 import 'package:get/get.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class Product_Details extends StatefulWidget {
   final Product product;
@@ -32,6 +34,7 @@ class _Product_DetailsState extends State<Product_Details> {
   String? selectedTonnage;
   String? selectedConnectivity;
 
+  int quantity=1;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -88,6 +91,10 @@ class _Product_DetailsState extends State<Product_Details> {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16),
             child: _buildVariantsSection(),
+          ),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 16),
+            child: _buildQuantity(),
           ),
           Divider(),
           Padding(
@@ -209,7 +216,7 @@ class _Product_DetailsState extends State<Product_Details> {
           SizedBox(width: 12),
           Expanded(
             child: Text(
-              "Shipping: ₹${widget.product.shipping}\nDelivery in 7 working days",
+              "Shipping: 2% of your final amount\nDelivery in 7 working days",
               style: TextStyle(fontSize: 16),
             ),
           ),
@@ -269,6 +276,52 @@ class _Product_DetailsState extends State<Product_Details> {
                 ),
               ],
             ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  //Quentity
+  Widget _buildQuantity(){
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16,),
+      child: Row(
+        children: [
+          Text("Quantity: ",style: TextStyle(fontWeight: FontWeight.w900, fontSize: 20)),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Row(
+                children: [
+                  IconButton(
+                    icon: Icon(Icons.remove_circle_outline,color: quantity==1?Colors.grey:Colors.red,),
+                    onPressed: () async {
+                      setState(() {
+                        if(quantity==1)
+                          return;
+                        quantity--;
+                      });
+                    },
+                  ),
+                  Text('$quantity', style: TextStyle(fontSize: 16)),
+                  IconButton(
+                    icon: Icon(Icons.add_circle_outline,color: quantity==3?Colors.grey:Colors.green,),
+                    onPressed: () async {
+                      setState(() {
+                        if(quantity==3){
+                          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                            content: Text("You can only order 3 Units of this product"),
+                          ),);
+                          return;
+                        }
+                        quantity++;
+                      });
+                    },
+                  ),
+                ],
+              ),
+            ],
           ),
         ],
       ),
@@ -420,7 +473,7 @@ class _Product_DetailsState extends State<Product_Details> {
             Expanded(
               child: ElevatedButton.icon(
                 onPressed: () {
-                  // Buy now logic
+                  checkout();
                 },
                 icon: Icon(Icons.shopping_bag,color: Colors.white,),
                 label: Text("Buy Now",style: TextStyle(color: Colors.white),),
@@ -446,7 +499,7 @@ class _Product_DetailsState extends State<Product_Details> {
     final cart_itm=CartModel(
       product_id: widget.product.id, name: widget.product.name,
       variants: variant, price: price, tax: tax, category: widget.product.category!,
-      image: widget.product.images[0], quantity: 1, total_amount: total_price,
+      image: widget.product.images[0], quantity: quantity, total_amount: total_price*quantity,
     );
 
     var db=DBHelper.instance;
@@ -459,6 +512,68 @@ class _Product_DetailsState extends State<Product_Details> {
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Product is Already in Cart")));
       print(e.toString());
     }
+  }
+
+  void checkout() async{
+    Map<String,String> variant=get_variants();
+    var price=widget.product.price;
+    var tax=widget.product.tax;
+
+    double total_price=double.parse((price +((price*tax)/100)).toStringAsFixed(2));
+
+    final product=CartModel(
+      product_id: widget.product.id, name: widget.product.name,
+      variants: variant, price: price, tax: tax, category: widget.product.category!,
+      image: widget.product.images[0], quantity: quantity, total_amount: total_price*quantity,
+    );
+
+    var pr=await SharedPreferences.getInstance();
+    if(pr.getBool("is_avail")==true){
+      showConfirmAndEditDetailsDialog(context,product);
+    }
+  }
+
+  Future<void> showConfirmAndEditDetailsDialog(BuildContext context, CartModel item) {
+    return showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) => AlertDialog(
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(12),
+        ),
+        title: const Text(
+          'E-Shop',
+          style: TextStyle(fontWeight: FontWeight.bold),
+        ),
+        content: const Text('Do you want to change your details?'),
+        actions: [
+          TextButton(
+            onPressed: () {
+              // Close dialog and go straight to checkout
+              Navigator.of(dialogContext).pop();
+              Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => CheckoutScreen(item: item)),
+              );
+            },
+            child: const Text('Continue without changing'),
+          ),
+          TextButton(
+            onPressed: () async {
+              Navigator.of(dialogContext).pop();
+              bool res=await Navigator.of(context).push(
+                MaterialPageRoute(builder: (_) => UserDetails()),
+              );
+              if(res){
+                Navigator.of(context).push(
+                  MaterialPageRoute(builder: (_) => CheckoutScreen(item: item)),
+                );
+              }
+            },
+            child: const Text('Yes'),
+          ),
+        ],
+      ),
+    );
   }
 
   Map<String,String> get_variants(){

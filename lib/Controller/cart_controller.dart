@@ -31,7 +31,6 @@ class CartController extends GetxController{
 
   Future<void> onClear() async{
     cartItems.clear();
-    cartItems.refresh();
   }
 
   Future<int> increment_quntity(int index) async{
