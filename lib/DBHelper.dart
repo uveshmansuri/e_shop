@@ -29,13 +29,14 @@ class DBHelper{
           id INTEGER PRIMARY KEY AUTOINCREMENT,
           product_id INTEGER,
           name TEXT,
-          variants TEXT UNIQUE,
+          variants TEXT,
           price REAL,
           tax REAL,
           category TEXT,
           image TEXT,
           quantity INTEGER,
-          total_amount REAL
+          total_amount REAL,
+          UNIQUE(product_id,variants)
           )''');
       }
     );

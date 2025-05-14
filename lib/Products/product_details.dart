@@ -1,5 +1,4 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:e_shop/Check%20Out/CheckOut.dart';
 import 'package:e_shop/Check%20Out/User_Details_Form.dart';
 import 'package:e_shop/Controller/cart_controller.dart';
 import 'package:e_shop/DBHelper.dart';
@@ -9,6 +8,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_rating/flutter_rating.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../Check Out/CheckOutService.dart';
 
 class Product_Details extends StatefulWidget {
   final Product product;
@@ -489,90 +490,104 @@ class _Product_DetailsState extends State<Product_Details> {
     );
   }
 
-  void add_to_cart() async{
-    Map<String,String> variant=get_variants();
-    var price=widget.product.price;
-    var tax=widget.product.tax;
+  void add_to_cart() async {
+    final prefs = await SharedPreferences.getInstance();
+    bool isAvail = prefs.getBool('is_avil') ?? false;
 
-    double total_price=double.parse((price +((price*tax)/100)).toStringAsFixed(2));
+    // If not available, navigate to user details form and wait for result
+    if (!isAvail) {
+      final result = await Navigator.push<bool>(
+        context,
+        MaterialPageRoute(builder: (_) => UserDetails()),
+      );
+      // If user completed form, set flag and continue; else bail out
+      if (result == true) {
+        await prefs.setBool('is_avil', true);
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text("Please complete your details to add to cart"))
+        );
+        return;
+      }
+    }
 
-    final cart_itm=CartModel(
-      product_id: widget.product.id, name: widget.product.name,
-      variants: variant, price: price, tax: tax, category: widget.product.category!,
-      image: widget.product.images[0], quantity: quantity, total_amount: total_price*quantity,
+    // At this point, details are available — proceed with add to cart
+    Map<String,String> variant = get_variants();
+    var price = widget.product.price;
+    var tax = widget.product.tax;
+    double totalPrice = double.parse(
+        (price + ((price * tax) / 100)).toStringAsFixed(2)
     );
 
-    var db=DBHelper.instance;
-    try{
-      await db.add_to_cart(cart_itm);
-      CartController cartController=Get.find();
-      await cartController.addItem();
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Product Added in Cart")));
-    }catch(e){
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Product is Already in Cart")));
-      print(e.toString());
+    final cartItem = CartModel(
+      product_id: widget.product.id,
+      name: widget.product.name,
+      variants: variant,
+      price: price,
+      tax: tax,
+      category: widget.product.category!,
+      image: widget.product.images[0],
+      quantity: quantity,
+      total_amount: totalPrice * quantity,
+    );
+
+    try {
+      await DBHelper.instance.add_to_cart(cartItem);
+      await Get.find<CartController>().addItem();
+      ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text("Product Added in Cart"))
+      );
+    } catch (e) {
+      ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text("Product is Already in Cart"))
+      );
+      print(e);
     }
   }
 
-  void checkout() async{
-    Map<String,String> variant=get_variants();
-    var price=widget.product.price;
-    var tax=widget.product.tax;
+  void checkout() async {
+    final prefs = await SharedPreferences.getInstance();
+    bool isAvail = prefs.getBool('is_avil') ?? false;
 
-    double total_price=double.parse((price +((price*tax)/100)).toStringAsFixed(2));
+    // Check details flag
+    if (!isAvail) {
+      final result = await Navigator.push<bool>(
+        context,
+        MaterialPageRoute(builder: (_) => UserDetails()),
+      );
+      if (result == true) {
+        await prefs.setBool('is_avil', true);
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text("Please complete your details to checkout"))
+        );
+        return;
+      }
+    }
 
-    final product=CartModel(
-      product_id: widget.product.id, name: widget.product.name,
-      variants: variant, price: price, tax: tax, category: widget.product.category!,
-      image: widget.product.images[0], quantity: quantity, total_amount: total_price*quantity,
+    // Details confirmed — proceed to checkout
+    Map<String,String> variant = get_variants();
+    var price = widget.product.price;
+    var tax = widget.product.tax;
+    double totalPrice = double.parse(
+        (price + ((price * tax) / 100)).toStringAsFixed(2)
     );
 
-    var pr=await SharedPreferences.getInstance();
-    if(pr.getBool("is_avail")==true){
-      showConfirmAndEditDetailsDialog(context,product);
-    }
-  }
+    final product = CartModel(
+      product_id: widget.product.id,
+      name: widget.product.name,
+      variants: variant,
+      price: price,
+      tax: tax,
+      category: widget.product.category!,
+      image: widget.product.images[0],
+      quantity: quantity,
+      total_amount: totalPrice * quantity,
+    );
 
-  Future<void> showConfirmAndEditDetailsDialog(BuildContext context, CartModel item) {
-    return showDialog<void>(
+    CheckOutService.showConfirmAndEditDetailsDialog(
+      item: product,
       context: context,
-      barrierDismissible: false,
-      builder: (dialogContext) => AlertDialog(
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(12),
-        ),
-        title: const Text(
-          'E-Shop',
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
-        content: const Text('Do you want to change your details?'),
-        actions: [
-          TextButton(
-            onPressed: () {
-              // Close dialog and go straight to checkout
-              Navigator.of(dialogContext).pop();
-              Navigator.of(context).push(
-                MaterialPageRoute(builder: (_) => CheckoutScreen(item: item)),
-              );
-            },
-            child: const Text('Continue without changing'),
-          ),
-          TextButton(
-            onPressed: () async {
-              Navigator.of(dialogContext).pop();
-              bool res=await Navigator.of(context).push(
-                MaterialPageRoute(builder: (_) => UserDetails()),
-              );
-              if(res){
-                Navigator.of(context).push(
-                  MaterialPageRoute(builder: (_) => CheckoutScreen(item: item)),
-                );
-              }
-            },
-            child: const Text('Yes'),
-          ),
-        ],
-      ),
     );
   }
 

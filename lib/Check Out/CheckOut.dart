@@ -151,12 +151,14 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
               ElevatedButton.icon(
                 onPressed: () => _showCouponSheet(items),
                 icon: const Icon(Icons.local_offer_outlined),
-                label: Text(_appliedCoupon == null
-                    ? 'Apply Coupon'
-                    : 'Change Coupon'),
+                label: Text(
+                    _appliedCoupon == null ? 'Apply Coupon' : 'Change Coupon'
+                ),
                 style: ElevatedButton.styleFrom(
-                    shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(8))),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                ),
               ),
               const Divider(height: 30, thickness: 1.2),
 
@@ -201,17 +203,23 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
                             child: Text("No",style: TextStyle(color: Colors.red),),
                           ),
                           TextButton(
-                            onPressed: (){
+                            onPressed: () async{
                               Navigator.pop(context);
                               Navigator.pop(context);
                               Navigator.pop(context);
-                              Navigator.push(
+                              await Navigator.push(
                                 context,
                                 MaterialPageRoute(builder: (_)=> OrderSuccessScreen(
                                     items: items, subTotal: subTotal, tax: totalTax, shipping: shippingFee,
                                     discount: _couponDiscount, cashback: _cashBack, total: total),
                                 ),
                               );
+                              if(widget.item==null){
+                                DBHelper _db=DBHelper.instance;
+                                _db.emptyCart();
+                                CartController cartController=Get.find();
+                                cartController.onClear();
+                              }
                               ScaffoldMessenger.of(context).showSnackBar(
                                 const SnackBar(content: Text('Order placed successfully!')),
                               );

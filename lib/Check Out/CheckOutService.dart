@@ -22,11 +22,10 @@ class CheckOutService{
         actions: [
           TextButton(
             onPressed: () {
-              // Close dialog and go straight to checkout
               Navigator.of(dialogContext).pop();
               if(item==null)
               Navigator.of(context).push(
-                MaterialPageRoute(builder: (_) => CheckoutScreen(item: item)),
+                MaterialPageRoute(builder: (_) => CheckoutScreen()),
               );
               else
               Navigator.of(context).push(

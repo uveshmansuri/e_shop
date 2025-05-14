@@ -185,7 +185,7 @@ class CartScreen extends StatelessWidget {
 
       floatingActionButton:
       FloatingActionButton.extended(
-        onPressed: () {
+        onPressed: () async{
           cartController.cartItems.isEmpty
               ?
           ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Your cart is empty")))

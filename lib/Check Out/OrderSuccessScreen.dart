@@ -1,14 +1,10 @@
-import 'package:e_shop/Controller/cart_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
 import 'package:e_shop/Model Classes/cart_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
-import '../DBHelper.dart';
 
 class OrderSuccessScreen extends StatefulWidget {
   final List<CartModel> items;
@@ -45,7 +41,13 @@ class _OrderSuccessScreenState extends State<OrderSuccessScreen> {
   @override
   void initState() {
     super.initState();
+    print(widget.items);
     _loadUserDetails();
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
   }
 
   Future<void> _loadUserDetails() async {
@@ -188,10 +190,6 @@ class _OrderSuccessScreenState extends State<OrderSuccessScreen> {
                     const SizedBox(height: 20),
                     ElevatedButton(
                       onPressed: () {
-                        DBHelper _db=DBHelper.instance;
-                        _db.emptyCart();
-                        CartController cartController=Get.find();
-                        cartController.onClear();
                         Navigator.popUntil(context, (route) => route.isFirst);
                       },
                       child: const Text('Back to Home',style: TextStyle(color: Colors.white),),
